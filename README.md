@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aatmik-Coder
 - 👀 I’m interested in building website
-- 🌱 I’m currently learning PHP framework laravel
+- 🌱 I’m currently developing website in laravel framework
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me mail me on 'coderaatmik@gmail.com'
 
 <!---
 Aatmik-Coder/Aatmik-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
