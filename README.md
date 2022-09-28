@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aatmik-Coder
-- B) Open Source Contributor
+- 😎 Open Source Contributor
 - 👀 I’m interested in building website
 - 🌱 I’m currently developing website in laravel framework
 - 💞️ I’m looking to collaborate on projects
